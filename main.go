@@ -9,8 +9,8 @@ import (
 )
 
 const (
-	PROJECT_ID  = "XXX" // replace with your project id.
-	DATABASE_ID = "test-db-1"
+	PROJECT_ID  = "deep-bolt-382805"
+	DATABASE_ID = "test-db"
 	KIND        = "Students"
 )
 
